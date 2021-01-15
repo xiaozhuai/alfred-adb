@@ -8,4 +8,4 @@ The alert windows are token from [https://github.com/xiaozhuai/macos-alert](http
 
 # preview
 
-[![Watch the video](preview.png)](https://youtu.be/OInAgsoh6os)
+![preview.gif](preview.gif)
